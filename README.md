@@ -7,3 +7,7 @@ The project is a water level monitoring system that utilizes a water level senso
 - Buzzer
 - Breadboard
 
+
+
+https://github.com/tabi18/Water-Level-Monitoring-System/assets/128082520/05b65515-644f-45e8-8a3d-4af44306deed
+
